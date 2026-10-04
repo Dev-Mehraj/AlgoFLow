@@ -1,0 +1,8 @@
+/target/
+/build/
+*.exe
+*.flw
+temp_output.c
+.idea/
+.vscode/
+Cargo.lock
