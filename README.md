@@ -26,8 +26,9 @@ Clone the repository and install the `algo` CLI binary globally:
 
 ```powershell
 # Clone repository
-git clone [https://github.com/YOUR_USERNAME/lang-algo.git](https://github.com/YOUR_USERNAME/lang-algo.git)
-cd lang-algo
+git clone [https://github.com/YOUR_USERNAME/lang-algo.git]
+(https://github.com/YOUR_USERNAME/lang-algo.git)
+cd AlgoFlow
 
 # Install binary to system PATH (~/.cargo/bin)
 cargo install --path .
